@@ -8,4 +8,7 @@ Online input and output normalization. Useful when statistics are not known a pr
 So far, a replay buffer inheriting from the Dataset class, such that in can be used within the DataLoader.
 
 # Installation
-The requirements are given without version yet
+The requirements are given without version so far, but for installation do:
+```
+pip install -r requirements.txt
+```
